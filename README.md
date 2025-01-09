@@ -26,11 +26,5 @@
 ## 📊 GitHub Stats
 ![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=RemoNight&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true&hide_title=false&line_height=21)
 
- ## 🔗 Connect with me
-<p align="left">
-<a href="https://www.instagram.com/yomook/" target="blank"><img align="center" src="https://www.pngmart.com/files/21/Instagram-PNG-Isolated-File.png" alt="yomook" height="53" width="53" /></a>
-<a href="https://www.facebook.com/yosita.psran/" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/07/Facebook-Logo-Square-768x768.png" alt="yomook" height="40" width="40" /></a>
-
-
 
 
